@@ -1,4 +1,4 @@
-### Hola, soy Juan Carlos Quizhpi Pintado 👋
+### Hola, soy Juan Carlos Quizhpi  👋
 
 ---
 
@@ -17,11 +17,7 @@
 
 ---
 
-#### 📊 Estadísticas de GitHub:
 
-#![Estadísticas de GitHub de Juan Carlos](https://github-readme-stats.vercel.app/api?username=juanqui-#art&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
-
----
 
 
 
