@@ -22,5 +22,4 @@ Apasionado por crear interfaces web intuitivas y funcionales. Especializado en R
 - 📱 Teléfono: (593)-984698436
 - 🌎 Ubicación: Cuenca, Ecuador
 
----
-⚡ *"El código limpio no es escrito siguiendo un conjunto de reglas. Tú no te conviertes en un artesano del software siguiendo un listado."* – Robert C. Martin
+
